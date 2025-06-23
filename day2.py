@@ -78,3 +78,15 @@ a = 2
 b = 3
 
 print(a+b)
+
+
+#change done by divanshi
+a = 28
+b = 5
+15 / 5 = 0
+print(a + b)
+print(a - b)
+print(a * b)
+print(int(a / b))
+print(a % b)
+print(28 // 5)
