@@ -81,3 +81,7 @@ if(marks >= 60):
     print('D')
 if(marks <= 30):
     print('padh le bhai')
+    
+    # code by Anubhav
+name = input("What's your name")
+print("Hello",  + name + "! Nice to meet you.")
