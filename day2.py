@@ -72,3 +72,9 @@ print('done ' * num2) #
 # print("this" + "is" + "nit")
 # num1 -> 10
 # num2 -> 10
+
+# addd two number
+a = 2
+b = 3
+
+print(a+b)
