@@ -81,3 +81,5 @@ if(marks >= 60):
     print('D')
 if(marks <= 30):
     print('padh le bhai')
+
+print("pull request sent on June 24 , 2025")
